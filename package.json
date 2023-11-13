@@ -1,0 +1,15 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "[Description](#description)\r   [Acceptance Requirement](#acceptance requirement)\r   [Installation Instructions](#installation-instructions)\r   [Questions](#questions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1"
+  }
+}
