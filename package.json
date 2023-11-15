@@ -2,7 +2,7 @@
   "name": "text-editor",
   "version": "1.0.0",
   "description": "[Description](#description)\r   [Acceptance Requirement](#acceptance requirement)\r   [Installation Instructions](#installation-instructions)\r   [Questions](#questions)",
-  "main": "index.js",
+  "main": "server.js",
   "engines": {
     "node": "18.17.0"
   },
