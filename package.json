@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "[Description](#description)\r   [Acceptance Requirement](#acceptance requirement)\r   [Installation Instructions](#installation-instructions)\r   [Questions](#questions)",
   "main": "index.js",
+  "engines": {
+    "node": "18.17.0"
+  },
+
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
     "start": "npm run build && cd server && node server.js",
